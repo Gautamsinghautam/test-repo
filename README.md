@@ -1,3 +1,3 @@
 thi is a test repo 
-testing it 
+testing
 testing adding line 3
